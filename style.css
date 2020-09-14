@@ -1,0 +1,33 @@
+.header {
+    background-color: #20315A;
+    color:          white;
+    text-align:     center;
+    padding:        100px;
+    margin:         10px;
+}
+
+.container {
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+.searchParam {
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+}
+
+.topArticles {
+    background-color: lightgray;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+}
+
+.inputArticlesHere {
+    border: 1px solid gray;
+    padding: 50px;
+    margin: 15px;
+}
